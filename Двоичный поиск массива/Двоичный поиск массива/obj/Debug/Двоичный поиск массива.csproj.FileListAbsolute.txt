@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\bin\Debug\Двоичный поиск массива.exe.config
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\bin\Debug\Двоичный поиск массива.exe
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\bin\Debug\Двоичный поиск массива.pdb
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\obj\Debug\Двоичный поиск массива.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\obj\Debug\Двоичный_поиск_массива.Form1.resources
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\obj\Debug\Двоичный_поиск_массива.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\obj\Debug\Двоичный поиск массива.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\obj\Debug\Двоичный поиск массива.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\obj\Debug\Двоичный поиск массива.exe
+C:\Users\Lenovo\source\repos\Двоичный поиск массива\Двоичный поиск массива\obj\Debug\Двоичный поиск массива.pdb
